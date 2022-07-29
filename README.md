@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=darpan-jain.darpan-jain" >
+
 ## Hi! 👋 Welcome to my virtual office!
 
 ### Check out my website - [darpanjain.me](https://darpanjain.me/)
@@ -11,8 +13,6 @@ Please schedule some time with me using the Calendly link below.
 
 ### I absoultely love listening (and discovering) music 🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
-
-![](https://visitor-badge.glitch.me/badge?page_id=darpan-jain.darpan-jain)
 
 <!--
 **darpan-jain/darpan-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
