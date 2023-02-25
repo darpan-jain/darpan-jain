@@ -14,8 +14,8 @@ Please schedule some time with me using the Calendly link below.
 ### I absolutely love listening to (and discovering) music 🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
 
-<!-- ### I absolutely love listening to (and discovering) music 🎵
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=1b1818&interchange=false&bar_color=53b14f&bar_color_cover=true)]] -->
+### I absolutely love listening to (and discovering) music 🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=1b1818&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
 
 <!--
 **darpan-jain/darpan-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
