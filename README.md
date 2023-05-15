@@ -3,7 +3,6 @@
 # Hi! 👋 Welcome to my virtual office!
 
 ## Check out my website - [darpanjain.me](https://darpanjain.me/)
----
 
 ## Want to talk? 📞
 
