@@ -10,6 +10,15 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 
 <a href="https://calendly.com/darpanjain" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
+## I absolutely love to listen (and discover) music 🎧
+
+#### Here's what I'm listening to _right now_
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=1b1818&
+interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
+
+<!-- [![Spotify](https://github.com/darpan-jain/darpan-jain/blob/main/spotify.svg)](https://open.spotify.com/user/darpan-jain) -->
+
 ### What am I upto? 🤔
 
 <!--START_SECTION:activity-->
@@ -20,11 +29,3 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 5. ❗️ Closed issue [#4](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/4) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
 <!--END_SECTION:activity-->
 ---
-
-## I absolutely love to listen (and discover) music 🎧
-
-#### Here's what I'm listening to _right now_
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=1b1818&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
-
-[![Spotify](https://github.com/darpan-jain/darpan-jain/blob/main/spotify.svg)](https://open.spotify.com/user/darpan-jain)
