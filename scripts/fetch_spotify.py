@@ -28,7 +28,7 @@ RECENTLY_PLAYING_URL = (
 app = Flask(__name__)
 
 def getAuth():
-    return b64encode(f"{SPOTIFY_CLIENT_ID}:{SPOTIFY_SECRET_ID}".encode()).decode(
+    return b64encode(f"{SPOTIFY_CLIENT_ID}:{SPOTIFY_CLIENT_SECRET}".encode()).decode(
         "ascii"
     )
 
