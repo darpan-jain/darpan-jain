@@ -22,7 +22,7 @@ jobs:
         env:
           INSTAGRAM_PUBLIC_HANDLE: ${{ secrets.INSTAGRAM_PUBLIC_HANDLE }}
         run: |
-          python ./scripts/fetch_instagram_photos.py
+          python ./scripts/fetch_instagram.py
       - name: Commit and push if changed
         run: |
           git pull origin main
