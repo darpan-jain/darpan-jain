@@ -3,6 +3,7 @@ name: Github Activity
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every 30 minute.
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
   build:
