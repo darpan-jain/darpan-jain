@@ -14,9 +14,6 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 
 <!--START_SECTION:activity-->
 
-### I absoultely love listening to (and discovering) music 🎵
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
-
 ## I absolutely love to listen (and discover) music 🎧
 
 #### Here's what I'm listening to _right now_
