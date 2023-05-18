@@ -14,6 +14,8 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 
 <!--START_SECTION:activity-->
 
+---
+
 ## I absolutely love to listen (and discover) music 🎧
 
 #### Here's what I'm listening to _right now_
