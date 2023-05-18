@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Set up Python 3.9
         uses: actions/setup-python@v2
         with:
@@ -21,7 +21,7 @@ jobs:
       - name: generate
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
+          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           python ./scripts/fetch_spotify.py
