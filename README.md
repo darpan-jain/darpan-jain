@@ -9,7 +9,7 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 
 ## I absolutely love to listen (and discover) music 🎧
 ### Here's what I'm listening to _right now_
-[![Spotify](https://github.com/darpan-jain/darpan-jain/blob/master/spotify.svg)](https://open.spotify.com/user/darpan-jain)
+[![Spotify](https://github.com/darpan-jain/darpan-jain/blob/master/scripts/generated/spotify.svg)](https://open.spotify.com/user/darpan-jain)
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=1b1818&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true) -->
 
