@@ -21,5 +21,6 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 4. 🗣 Commented on [#3](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/3) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
 5. ❗️ Closed issue [#4](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/4) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
 <!--END_SECTION:activity-->
+---
 
 ## You can check out my website - [darpanjain.me](https://darpanjain.me/) ✨
