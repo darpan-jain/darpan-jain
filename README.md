@@ -13,7 +13,7 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 ### What am I upto? 🤔
 
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 ---
 
 ## I absolutely love to listen (and discover) music 🎧

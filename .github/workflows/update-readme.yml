@@ -2,8 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
-  workflow_dispatch:
+    - cron: "*/1 * * * *" # Runs every 1 minute.
 
 jobs:
   build:
@@ -16,5 +15,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Specify a custom commit message'
+          COMMIT_MSG: "Updated README with recent activity"
           MAX_LINES: 10
