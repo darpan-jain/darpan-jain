@@ -29,6 +29,6 @@ jobs:
         run: |
           git add .
           git config --global user.email "darpan.pmun@gmail.com"
-          git config --global user.name "darpan_jain"
+          git config --global user.name "darpan-jain"
           git commit -m "Updated spotify.svg"
           git push origin main
