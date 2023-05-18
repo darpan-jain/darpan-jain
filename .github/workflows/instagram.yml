@@ -1,4 +1,4 @@
-name: Instagram Top-3 posts
+name: Latest Instagram posts
 on:
   schedule: # Run workflow automatically
     - cron: '0 0 * * *' # Runs every day at midnight
