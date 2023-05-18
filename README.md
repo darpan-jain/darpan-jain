@@ -1,8 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=darpan-jain&style=plastic&color=blue&label=Curious+Views">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&width=550&height=100&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-## Check out my website - [darpanjain.me](https://darpanjain.me/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&width=550&height=70&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ## Want to talk? 📞
 
@@ -12,14 +10,14 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 
 ## I absolutely love to listen (and discover) music 🎧
 
-#### Here's what I'm listening to _right now_
+### Here's what I'm listening to _right now_
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=1b1818&
-interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=1b1818&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=darpan_jain&redirect=true)
 
 <!-- [![Spotify](https://github.com/darpan-jain/darpan-jain/blob/main/spotify.svg)](https://open.spotify.com/user/darpan-jain) -->
+---
 
-### What am I upto? 🤔
+## What am I upto? 🤔
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#112](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT/pull/112) in [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT)
@@ -29,3 +27,5 @@ interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github
 5. ❗️ Closed issue [#4](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/4) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
 <!--END_SECTION:activity-->
 ---
+
+## Check out my website - [darpanjain.me](https://darpanjain.me/)
