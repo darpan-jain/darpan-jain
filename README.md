@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=darpan-jain&style=plastic&color=blue&label=Curious+Views">
 
-# Hi! 👋 Welcome to my virtual office!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&width=550&height=100&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ## Check out my website - [darpanjain.me](https://darpanjain.me/)
 
