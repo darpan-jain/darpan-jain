@@ -124,6 +124,9 @@ def makeSVG(data, background_color, border_color):
     songURI = item["external_urls"]["spotify"]
     artistURI = item["artists"][0]["external_urls"]["spotify"]
 
+    # Change SVG image size 
+    image = image.replace("width='300'", "width='200'")
+
     dataDict = {
         "contentBar": contentBar,
         "barCSS": barCSS,
