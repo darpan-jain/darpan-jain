@@ -31,4 +31,4 @@ jobs:
           git config --global user.email "darpan.pmun@gmail.com"
           git config --global user.name "darpan-jain"
           git commit -m "Updated spotify.svg"
-          git push origin main
+          git push origin master
