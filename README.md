@@ -14,6 +14,8 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 <!-- [![Spotify](https://github.com/darpan-jain/darpan-jain/blob/master/scripts/generated/spotify.svg)](https://open.spotify.com/user/darpan_jain) -->
 
 ## What am I upto? 🤔
+[![GitHub Streak](https://streak-stats.demolab.com?user=darpan-jain&theme=dark&hide_border=true&card_width=550)](https://git.io/streak-stats)
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#112](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT/pull/112) in [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT)
 2. 🗣 Commented on [#222](https://github.com/facebookresearch/llama/issues/222) in [facebookresearch/llama](https://github.com/facebookresearch/llama)
