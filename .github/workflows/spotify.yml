@@ -21,7 +21,7 @@ jobs:
       - name: generate
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_SECRET_ID }}
+          SPOTIFY_SECRET_ID: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           python ./scripts/fetch_spotify.py
