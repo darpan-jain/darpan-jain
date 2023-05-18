@@ -13,6 +13,11 @@ Please schedule time with me using the Calendly link below. (**If you're recruit
 ### What am I upto? 🤔
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#112](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT/pull/112) in [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT)
+2. 🗣 Commented on [#222](https://github.com/facebookresearch/llama/issues/222) in [facebookresearch/llama](https://github.com/facebookresearch/llama)
+3. 🗣 Commented on [#3](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/3) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
+4. 🗣 Commented on [#3](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/3) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
+5. ❗️ Closed issue [#4](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/4) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
 <!--END_SECTION:activity-->
 ---
 
