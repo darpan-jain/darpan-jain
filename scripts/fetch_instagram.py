@@ -23,6 +23,7 @@ def clean_old_photos(path, num_photos):
 if __name__ == "__main__":
 
     L = instaloader.Instaloader(dirname_pattern="instagram_posts/{target}", filename_pattern="post")
+    L.login(os.getenv("INSTAGRAM_PUBLIC_HANDLE"), os.getenv("INSTAGRAM_PASSWORD"))
     handle_to_consider = os.getenv("INSTAGRAM_PUBLIC_HANDLE")
     recent_posts = fetch_recent_K_photos(3, handle_to_consider, L)
 

@@ -21,6 +21,8 @@ jobs:
       - name: generate
         env:
           INSTAGRAM_PUBLIC_HANDLE: ${{ secrets.INSTAGRAM_PUBLIC_HANDLE }}
+          INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
+
         run: |
           python ./scripts/fetch_instagram.py
       - name: Commit and push if changed
