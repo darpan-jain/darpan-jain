@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&width=550&height=70&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-I'm a **Machine Learning Engineer** with **half a decade** of experience in building scalable and reliable Machine Learning systems. 
+I'm a **Machine Learning Engineer** with [**half a decade**](https://darpanjain.me/) of experience in building scalable and reliable Machine Learning systems. 
 
 Currently, I work in [Applied Research](https://www.isi.edu/directory/darpanja/) for Natural Language Processing, focused on building dialogue agents to moderate toxic language on social media platforms like Reddit.
 
