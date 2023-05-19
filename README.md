@@ -31,7 +31,14 @@ If you'd like to discuss ideas or have questions, please schedule (_it's quite o
 5. ❗️ Closed issue [#4](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/4) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
 <!--END_SECTION:activity-->
 
-<!-- <br> -->
+<br>
+
+### Watch my commit chart being consumed!
+<p align = "left">
+	<img src = "https://github.com/darpan-jain/darpan-jain/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<br>
 
 ## I absolutely love to listen (and discover) music 🎧
 ### Here's what I'm listening to _right now_
