@@ -33,4 +33,4 @@ If you'd like to discuss ideas or have questions, please schedule (_it's quite o
 <!-- [![Spotify](https://github.com/darpan-jain/darpan-jain/blob/master/scripts/generated/spotify.svg)](https://open.spotify.com/user/darpan_jain) -->
 ---
 
-## You can check out my website - [darpanjain.me](https://darpanjain.me/) ✨
+## More deets on my website - [darpanjain.me](https://darpanjain.me/) ✨
