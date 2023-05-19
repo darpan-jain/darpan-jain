@@ -10,14 +10,13 @@ Currently, I work in [Applied Research](https://www.isi.edu/directory/darpanja/)
 
 Here's an overview about the work I do and what I am up to these days 🙂
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- <br> -->
+<!-- Flashing horizontal line -->
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## Let's talk? 📞
 If you'd like to discuss ideas or have questions, please schedule (_it's quite open!_) time with me on [Calendly](https://calendly.com/darpanjain). (**If you're recruiting, you're on the right page!**)
 
-<img src="https://github.com/darpan-jain/darpan-jain/blob/master/assets/dwight-phone.gif" width ="120" height="69"> <a href="https://calendly.com/darpanjain" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<img src="https://github.com/darpan-jain/darpan-jain/blob/master/assets/dwight-phone.gif" width ="120" height="69"> <a href="https://calendly.com/darpanjain" target="_blank"><img width="500" height="72" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 <!-- <br> -->
 
