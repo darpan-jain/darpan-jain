@@ -43,9 +43,9 @@ If you'd like to discuss ideas or have questions, please schedule (_it's quite o
 ## I absolutely love to listen (and discover) music 🎧
 <br>
 
-![recently-played](https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=400) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false) 
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=300" width="40%" align="middle"></img>  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="42%" align="middle"></img>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=300" width="40%" align="middle"></img>  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="42%" align="middle"></img> 
+<!-- ![recently-played](https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=400) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  -->
 
 <!-- [![Spotify](https://github.com/darpan-jain/darpan-jain/blob/master/scripts/generated/spotify.svg)](https://open.spotify.com/user/darpan_jain) -->
 
