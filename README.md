@@ -1,6 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=darpan-jain&style=plastic&color=blue&label=Curious+Views">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&width=550&height=70&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&width=550&height=70&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB"></a>
+</p>
 
 ### I'm a **Machine Learning Engineer** with [**half a decade**](https://darpanjain.me/) of experience in building scalable and reliable Machine Learning systems. 
 
