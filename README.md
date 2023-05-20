@@ -52,4 +52,4 @@ If you'd like to discuss ideas or have questions, please schedule (_it's quite o
 <!-- <br> -->
 ---
 
-## More deets on my website - [darpanjain.me](https://darpanjain.me/) ✨
+## More deets on my website - [darpanjain.com](https://darpanjain.com/) ✨
