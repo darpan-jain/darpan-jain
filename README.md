@@ -43,7 +43,7 @@ If you'd like to discuss ideas or have questions, please schedule (_it's quite o
 ## I absolutely love to listen (and discover) music 🎧
 <br>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=450" align="middle"></img>  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="middle"></img>
+<a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=450" align="middle"></img></a> <a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="middle"></img>
 
 <!-- ![recently-played](https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=400) ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  -->
 
