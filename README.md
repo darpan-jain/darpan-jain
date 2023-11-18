@@ -6,9 +6,9 @@
 
 ### I'm a Lead Machine Learning Engineer with [**over half a decade**](https://darpanjain.com/) of experience spearheading ML initiatives and building scalable solutions.
 
-Currently, I [**lead the Machine Learning team**](https://darpanjain.com/#work-section) at a social media company with 10M+ users. I am spearheading the design of Conversational Search using open-source large language models (LLMs) like Falcon, grounded by context using _Retrieval-Augmented Generation_. The goal is to generate nuanced responses to user queries and reliably mitigate hallucinations in LLMs. We are also efficiently fine-tuning models for increased input context and instruction tuning on proprietary data.
+Currently, I [**lead the Machine Learning team**](https://darpanjain.com/#work-section) at a social media company with 10M+ users. I am spearheading the design of Conversational Search using open-source large language models (LLMs) like Falcon, grounded by context using _Retrieval-Augmented Generation_ to generate reliable responses and minimize hallucinations.
 
-I have worked as an [Applied Researcher](https://www.isi.edu/directory/darpanja/) in Natural Language Processing and Large Language Models, focused on building dialogue agents to moderate toxic language on social media platforms like Reddit.
+I have worked as an [Applied Researcher](https://www.isi.edu/directory/darpanja/) in Natural Language Processing, focused on building Conversational AI to moderate toxic language on social media platforms like Reddit.
 
 Here's an overview about the work I do and what I am up to these days 🙂
 
