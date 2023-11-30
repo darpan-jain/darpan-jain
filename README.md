@@ -1,5 +1,5 @@
 <!-- Viewer Counter -->
-<img align="right" src="https://komarev.com/ghpvc/?username=darpan-jain&style=plastic&color=blue&label=Curious+Views">
+<img align="right" src="https://komarev.com/ghpvc/?username=darpan-jain&style=plastic&color=green&label=Curious+Views">
 <!-- END Viewer Counter -->
 
 <br> 
