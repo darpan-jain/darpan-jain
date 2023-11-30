@@ -18,6 +18,7 @@
 
 <!-- Intro Section -->
 ### I'm a Lead Machine Learning Engineer with [**over half a decade**](https://darpanjain.com/) of experience spearheading ML initiatives and building scalable solutions.
+---
 
 Currently, I [**lead the Machine Learning team**](https://darpanjain.com/#work-section) at a social media company with 10M+ users. I am spearheading the design of Conversational Search using open-source large language models (LLMs) like Falcon, grounded by context using _Retrieval-Augmented Generation_ to generate reliable responses and minimize hallucinations.
 
