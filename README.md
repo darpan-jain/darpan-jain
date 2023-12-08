@@ -22,7 +22,7 @@
 
 Currently, I [**lead the Machine Learning team**](https://darpanjain.com/#work-section) at a social media company with 10M+ users. I am spearheading the design of Conversational Search using open-source large language models (LLMs) like Falcon, grounded by context using _Retrieval-Augmented Generation_ to generate reliable responses and minimize hallucinations.
 
-I have worked as an [Applied Researcher](https://www.isi.edu/directory/darpanja/) in Natural Language Processing, focused on building Conversational AI to moderate toxic language on social media platforms like Reddit. Paper link [here.](https://arxiv.org/pdf/2311.10781)
+I have previously worked as an [Applied Researcher](https://www.isi.edu/directory/darpanja/) in Natural Language Processing at [USC Information Sciences Institute](https://www.isi.edu), focused on building Conversational AI to moderate toxic language on social media platforms like Reddit. You can read the [research paper here.](https://arxiv.org/pdf/2311.10781)
 <!-- END Intro Section -->
 
 <!-- Flashing horizontal line -->
