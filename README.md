@@ -17,10 +17,10 @@
 <br>
 
 <!-- Intro Section -->
-### I'm a Lead Machine Learning Engineer with [extensive experience](https://darpanjain.com/) spearheading ML initiatives and building scalable solutions.
+### I'm a Machine Learning Engineer with [extensive experience](https://darpanjain.com/) spearheading ML initiatives and building scalable solutions.
 ---
 
-Currently, I [**lead the Machine Learning team**](https://darpanjain.com/#work-section) at a social media company with 10M+ users. I am spearheading the design of Conversational Search using open-source large language models (LLMs) like Falcon, grounded by context using _Retrieval-Augmented Generation_ to generate reliable responses and minimize hallucinations.
+Currently, I am building the AI Platform and leading several initiatives at [Crunchyroll (Sony Pictures Entertainment)](https://darpanjain.com/#work-section) for over 13M+ anime fans worldwide. This involves building architectures to train and host language and multimodal models for several use cases to provide our users with a unique and reliable experience.
 
 I have previously worked as an [Applied Researcher](https://www.isi.edu/directory/darpanja/) in Natural Language Processing at [USC Information Sciences Institute](https://www.isi.edu), focused on building Conversational AI to moderate toxic language on social media platforms like Reddit. You can read the [research paper here.](https://arxiv.org/pdf/2311.10781)
 <!-- END Intro Section -->
@@ -31,8 +31,8 @@ I have previously worked as an [Applied Researcher](https://www.isi.edu/director
 <br>
 
 <!-- Contact Section -->
-## Let's talk? 📞
-If you'd like to discuss ideas or have questions, please schedule time with me [through Calendly](https://calendly.com/darpanjain). (**If you're recruiting, this is your cue!**)
+## Let's talk! 📞
+If you'd like to discuss ideas or have questions, please schedule time with me [through Calendly](https://calendly.com/darpanjain). (**If you're recruiting, do this!**)
 
 <img src="https://github.com/darpan-jain/darpan-jain/blob/master/assets/dwight-phone.gif" width ="120" height="69"> <a href="https://calendly.com/darpanjain" target="_blank"><img width="500" height="72" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
