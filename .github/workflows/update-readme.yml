@@ -1,5 +1,5 @@
 # # New version of Readme update for recent activity
-name: Update README
+name: Recent GitHub Activity - Profile Readme
 
 on:
   schedule:
@@ -12,11 +12,14 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@2.4.1
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@v2.4.1
       
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+        with:
+          COMMIT_MSG: "Updated README with recent Github activity"
+          MAX_LINES: 10
 
 # Older Version of the workflow
 # name: Github Activity
