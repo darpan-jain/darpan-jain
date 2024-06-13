@@ -43,6 +43,7 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 <!-- Github stats Section -->
 ## What am I up to? 🤔
 [![GitHub Streak](https://streak-stats.demolab.com?user=darpan-jain&theme=dark&hide_border=true&card_width=550)](https://git.io/streak-stats)
+<!-- END Github stats Section -->
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#93](https://github.com/isi-nlp/isi_darma/pull/93) in [isi-nlp/isi_darma](https://github.com/isi-nlp/isi_darma)
@@ -52,8 +53,9 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 5. ❗️ Closed issue [#4](https://github.com/darpan-jain/crowd-counting-using-tensorflow/issues/4) in [darpan-jain/crowd-counting-using-tensorflow](https://github.com/darpan-jain/crowd-counting-using-tensorflow)
 <!--END_SECTION:activity-->
 
-<!-- END Github stats Section -->
+<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--- <br>
 ### Watch my commit chart being consumed!
