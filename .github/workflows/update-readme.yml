@@ -1,46 +1,46 @@
 # # New version of Readme update for recent activity
-# name: Update activity readme
-
-# on:
-#   schedule:
-#     - cron: '0 4 */1 * *'
-#   workflow_dispatch:
-
-# permissions: write-all
-
-# jobs:
-#   build:
-#     runs-on: ubuntu-latest
-#     name: Update Profile README
-
-#     steps:
-#       - name: Checkout
-#         uses: actions/checkout@main
-#         with:
-#           persist-credentials: false
-#       - name: Update Readme
-#         uses: Readme-Workflows/recent-activity@main
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-
-# Older Version of the workflow
-name: Github Activity
+name: Update activity readme
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 30 minute.
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions: write-all
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update README with recent activity
+    name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@main
+        with:
+          persist-credentials: false
+      - name: Update Readme
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-        with:
-          COMMIT_MSG: "Updated README with recent Github activity"
-          MAX_LINES: 10
+
+# # Older Version of the workflow
+# name: Github Activity
+
+# on:
+#   schedule:
+#     - cron: "0 0 * * *" # Runs every 30 minute.
+#   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     name: Update README with recent activity
+
+#     steps:
+#       - uses: actions/checkout@v4
+#       - uses: jamesgeorge007/github-activity-readme@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+#         with:
+#           COMMIT_MSG: "Updated README with recent Github activity"
+#           MAX_LINES: 10
