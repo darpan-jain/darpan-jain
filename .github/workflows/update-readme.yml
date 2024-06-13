@@ -19,7 +19,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Update Readme
-        uses: Readme-Workflows/recent-activity@2.4.1
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
 
