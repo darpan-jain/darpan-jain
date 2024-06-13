@@ -47,10 +47,8 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 
 
 <!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
 
 <!--- <br>
 ### Watch my commit chart being consumed!
