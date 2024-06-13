@@ -6,12 +6,12 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions: write-all
-
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Profile README
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
