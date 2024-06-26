@@ -51,15 +51,15 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 ### Watch my commit chart being consumed!
 <p align = "left">
 	<img src = "https://github.com/darpan-jain/darpan-jain/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p> -->
+</p> 
 
-<br>
+<br> -->
 
 <!-- Spotify Section -->
-## I absolutely love to listen to (and discover) music 🎧
+## I absolutely love diving into all kinds of music 🎧
 <br>
 <a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=450" align="middle"></img></a>
 <a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" align="middle"></img>
 <!-- END Spotify Section -->
-	
+
 ---
