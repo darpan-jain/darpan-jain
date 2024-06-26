@@ -58,8 +58,8 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 <!-- Spotify Section -->
 ## I absolutely love to listen to (and discover) music 🎧
 <br>
-<a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=450" align="middle"></img></a> 
-<!-- <a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-github-profile.vercel.app/api/view.svg uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="middle"></img> -->
+<a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-recently-played-readme.vercel.app/api?user=darpan_jain&count=3&unique=true&width=450" align="middle"></img></a>
+<a href="https://open.spotify.com/user/darpan_jain"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=darpan_jain&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" align="middle"></img>
 <!-- END Spotify Section -->
 	
 ---
