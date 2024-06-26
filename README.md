@@ -17,7 +17,7 @@
 <br>
 
 <!-- Intro Section -->
-### I'm a Machine Learning Engineer with [demonstrated experience](https://darpanjain.com/) spearheading ML initiatives and building scalable solutions.
+### I'm a Machine Learning Engineer with [demonstrated experience](https://darpanjain.com/) spearheading ML & AI initiatives to build scalable solutions.
 ---
 
 Currently, I am building the AI Platform and leading several initiatives at [Crunchyroll (Sony Pictures Entertainment)](https://darpanjain.com/#work-section) for over 13M+ anime fans worldwide. This involves building architectures to train and host language and multimodal models for several use cases to provide our users with a unique and reliable experience.
