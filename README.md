@@ -34,7 +34,7 @@ I have previously worked as an [Applied Researcher](https://www.isi.edu/director
 ## Let's talk! 📞
 If you'd like to discuss ideas or have questions, please schedule time with me [through Calendly](https://calendly.com/darpanjain). (**If you're recruiting, do this!**)
 
-<img src="https://github.com/darpan-jain/darpan-jain/blob/master/assets/dwight-phone.gif" width ="120" height="69"> <a href="https://calendly.com/darpanjain" target="_blank"><img width="500" height="72" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/darpanjain" target="_blank"><img src="https://github.com/darpan-jain/darpan-jain/blob/master/assets/dwight-phone.gif" width ="120" height="69"></a> <a href="https://calendly.com/darpanjain" target="_blank"><img width="500" height="72" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 <br>
 
