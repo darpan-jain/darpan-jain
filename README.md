@@ -45,8 +45,10 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 [![GitHub Streak](https://streak-stats.demolab.com?user=darpan-jain&theme=dark&hide_border=true&card_width=550)](https://git.io/streak-stats)
 <!-- END Github stats Section -->
 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
+
+<!--RECENT_ACTIVITY:start-->
 <!--- <br>
 ### Watch my commit chart being consumed!
 <p align = "left">
