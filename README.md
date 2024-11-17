@@ -46,6 +46,8 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 <!-- END Github stats Section -->
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/aminoche/enkidu-journal-worker/issues/1) in [aminoche/enkidu-journal-worker](https://github.com/aminoche/enkidu-journal-worker)
+<!--END_SECTION:activity-->
 
 
 <!--RECENT_ACTIVITY:start-->
