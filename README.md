@@ -46,16 +46,11 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 <!-- END Github stats Section -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/aminoche/enkidu-journal-worker/issues/1) in [aminoche/enkidu-journal-worker](https://github.com/aminoche/enkidu-journal-worker)
+- ❗ Opened issue [#1](https://github.com/aminoche/enkidu-journal-worker/issues/1) in [aminoche/enkidu-journal-worker](https://github.com/aminoche/enkidu-journal-worker)
 <!--END_SECTION:activity-->
 
-
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
-2. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
-3. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
-4. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
-5. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
+- ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--- <br>
 ### Watch my commit chart being consumed!
