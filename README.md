@@ -50,7 +50,11 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
-<!-- - ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br> -->
+1. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
+2. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
+3. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
+4. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
+5. ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--- <br>
