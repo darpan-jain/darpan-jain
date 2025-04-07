@@ -1,8 +1,9 @@
-name: (new) Update README
+name: Update Recent Activity in README (new)
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Update this repo's README with recent activity
@@ -11,7 +12,12 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Update README with Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
