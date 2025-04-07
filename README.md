@@ -50,8 +50,9 @@ If you'd like to discuss ideas or have questions, please schedule time with me [
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br>
+<!-- - ⬆️ Pushed to [darpan-jain/darpan-jain](https://github.com/darpan-jain/darpan-jain)<br> -->
 <!--RECENT_ACTIVITY:end-->
+
 <!--- <br>
 ### Watch my commit chart being consumed!
 <p align = "left">
