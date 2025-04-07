@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true
       - name: Update Readme
         uses: Readme-Workflows/recent-activity@main
         env:
