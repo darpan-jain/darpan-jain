@@ -11,6 +11,8 @@
   <a href="https://darpanjain.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me" alt="Website Badge"/></a>
   <a href="https://scholar.google.com/citations?user=U5jJRi8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/></a>
   <a href="https://twitter.com/FunnyFriedDerp"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<!--   NEED to FIX <a href="https://blog.darpanjain.com/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Blog Badge"/></a>  -->
+  <a href="https://belovedpizza.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff" alt="Substack Badge"/></a>
 </div>
 <!-- END Intro Banner and Badges Section -->
 
