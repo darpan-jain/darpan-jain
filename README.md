@@ -7,12 +7,12 @@
 <!-- Intro Banner and Badges Section -->
 <div id="intro-and-badges" align="center">
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=2000&background=EF6DFF00&color=98CCF7&width=550&height=70&lines=Hi!+%F0%9F%91%8B+Welcome+to+my+virtual+office!+%F0%9F%92%BB"></a></p>
-  <a href="https://www.linkedin.com/in/darpann-jain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://darpanjain.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me" alt="Website Badge"/></a>
-  <a href="https://scholar.google.com/citations?user=U5jJRi8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/></a>
-  <a href="https://twitter.com/FunnyFriedDerp"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-<!--   NEED to FIX <a href="https://blog.darpanjain.com/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Blog Badge"/></a>  -->
-  <a href="https://belovedpizza.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff" alt="Substack Badge"/></a>
+  <a href="https://www.linkedin.com/in/darpann-jain/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&nbsp;&nbsp;
+  <a href="https://darpanjain.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge" alt="Website Badge"/></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=U5jJRi8AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/FunnyFriedDerp"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>&nbsp;&nbsp;
+  <a href="https://blog.darpanjain.com/"><img src="https://img.shields.io/badge/blog-0F52BA?style=for-the-badge" alt="Blog Badge"/></a>&nbsp;&nbsp;
+  <a href="https://belovedpizza.substack.com/"><img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=fff" alt="Substack Badge"/></a>&nbsp;&nbsp;
 </div>
 <!-- END Intro Banner and Badges Section -->
 
