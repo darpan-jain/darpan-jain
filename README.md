@@ -33,7 +33,7 @@ Previously worked as an [Applied Researcher](https://www.isi.edu/directory/darpa
 <br>
 
 ## I write sometimes 📝...
-Link to [My Blog](https://blog.darpanjain.com/) or [Substack](https://belovedpizza.substack.com/) :) 
+Link to [My Blog](https://blog.darpanjain.com/) and [Substack](https://belovedpizza.substack.com/) :) 
 
 <br>
 
