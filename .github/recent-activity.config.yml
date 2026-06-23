@@ -1,7 +1,7 @@
 settings:
   username: "darpan-jain"
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 3
+  max_lines: 5
   readme_file: "./README.md"
   url_text: "{REPO}{ID}"
   date: # Date Settings are ignored
