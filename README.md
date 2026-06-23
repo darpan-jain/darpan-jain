@@ -24,7 +24,7 @@
 
 Currently, building the Recommendations and Personalization and a centralized AI Platform at [Crunchyroll (Sony Pictures Entertainment)](https://darpanjain.com/#work-section) for over 15M anime fans worldwide. This involves building architectures to train and host language and multimodal models across several use cases, providing users with a unique and reliable experience.
 
-Previously worked as an [Applied Researcher](https://www.isi.edu/directory/darpanja/) in Natural Language Processing at [USC Information Sciences Institute](https://www.isi.edu), focused on building Conversational AI to moderate toxic language on social media platforms like Reddit. You can read the [research paper here.](https://arxiv.org/pdf/2311.10781)
+Previously worked as an Applied Researcher in Natural Language Processing at [USC Information Sciences Institute](https://www.isi.edu), focused on building Conversational AI to moderate toxic language on social media platforms like Reddit. You can read the [research paper here.](https://arxiv.org/pdf/2311.10781)
 <!-- END Intro Section -->
 
 <!-- Flashing horizontal line -->
@@ -39,7 +39,7 @@ Link to [My Blog](https://blog.darpanjain.com/) and [Substack](https://belovedpi
 
 <!-- Contact Section -->
 ## Let's talk! 📞
-If you'd like to discuss ideas or have questions, please schedule time with me [through Calendly](https://calendly.com/darpanjain). (**If you're recruiting, definitely do this!**)
+If you'd like to discuss ideas or have questions, please schedule time with me [through Calendly](https://calendly.com/darpanjain). (**or have interesting opportunities**)
 
 <a href="https://calendly.com/darpanjain" target="_blank"><img src="https://github.com/darpan-jain/darpan-jain/blob/master/assets/dwight-phone.gif" width ="120" height="69"></a> <a href="https://calendly.com/darpanjain" target="_blank"><img width="500" height="72" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
