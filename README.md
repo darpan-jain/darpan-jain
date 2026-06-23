@@ -19,10 +19,10 @@
 <br>
 
 <!-- Intro Section -->
-### A Lead Machine Learning Engineer with [extensive experience](https://darpanjain.com/) spearheading ML & AI initiatives to build scalable solutions.
+### A Lead Machine Learning Engineer with [experience](https://darpanjain.com/) spearheading ML & AI initiatives to build scalable solutions.
 ---
 
-Currently, building the Recommendations and Personalization and a centralized AI Platform at [Crunchyroll (Sony Pictures Entertainment)](https://darpanjain.com/#work-section) for over 15M anime fans worldwide. This involves building architectures to train and host language and multimodal models for several use cases to provide our users with a unique and reliable experience.
+Currently, building the Recommendations and Personalization and a centralized AI Platform at [Crunchyroll (Sony Pictures Entertainment)](https://darpanjain.com/#work-section) for over 15M anime fans worldwide. This involves building architectures to train and host language and multimodal models across several use cases, providing users with a unique and reliable experience.
 
 Previously worked as an [Applied Researcher](https://www.isi.edu/directory/darpanja/) in Natural Language Processing at [USC Information Sciences Institute](https://www.isi.edu), focused on building Conversational AI to moderate toxic language on social media platforms like Reddit. You can read the [research paper here.](https://arxiv.org/pdf/2311.10781)
 <!-- END Intro Section -->
