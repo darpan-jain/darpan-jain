@@ -37,7 +37,7 @@ Previously, I was an Applied Researcher in Natural Language Processing at [USC I
 
 ## Notes from the blog ✍️
 
-I write about recommendation systems, language-model alignment, and the incentives hidden inside the systems we build.
+I write about post-training AI models, LLM alignment, Recommendation systems, and the hidden quirks of systems we build and live in.
 
 | Latest writing |
 | --- |
@@ -45,16 +45,15 @@ I write about recommendation systems, language-model alignment, and the incentiv
 | [**Policy Optimization Algorithms for Alignment**](https://blog.darpanjain.com/policy-optimization/)<br><sub>A practical tour of PPO, GRPO, and DPO.</sub> |
 | [**Gaming the System: Understanding Reward Hacking**](https://blog.darpanjain.com/reward-hacking/)<br><sub>How clever shortcuts can derail language-model training.</sub> |
 
+<br>
 <a href="https://blog.darpanjain.com/">🌐 <strong>Read more on my blog →</strong></a>
-&nbsp;·&nbsp;
 <a href="https://belovedpizza.substack.com/"><img src="https://cdn.simpleicons.org/substack/FF6719" height="14" alt="Substack"> <strong>Essays on Substack →</strong></a>
-
 <br>
 
 <!-- Contact Section -->
 ## Let's talk ☕
 
-Have an idea about recommendation systems, ML platforms, or responsible AI? I'd be glad to compare notes. Interesting opportunities are welcome too.
+Have any thoughts about recommendation systems, ML platforms, or responsible AI? I'd be glad to compare notes. Interesting opportunities are welcome too.
 
 <p align="center">
   <a href="https://calendly.com/darpanjain"><img src="./assets/dwight-phone.gif" width="120" height="69" alt="Dwight Schrute answering the phone"></a>
