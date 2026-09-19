@@ -46,7 +46,7 @@ I write about post-training AI models, LLM alignment, Recommendation systems, an
 | [**Gaming the System: Understanding Reward Hacking**](https://blog.darpanjain.com/reward-hacking/)<br><sub>How clever shortcuts can derail language-model training.</sub> |
 
 <br>
-<a href="https://blog.darpanjain.com/">🌐 <strong>Read more on my blog →</strong></a>
+<a href="https://blog.darpanjain.com/">🌐 <strong>Read more on my blog →</strong></a> &nbsp; &nbsp; &nbsp;
 <a href="https://belovedpizza.substack.com/"><img src="https://cdn.simpleicons.org/substack/FF6719" height="14" alt="Substack"> <strong>Essays on Substack →</strong></a>
 <br>
 
